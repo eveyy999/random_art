@@ -1,0 +1,9 @@
+---
+title: "function_random_art_markdown"
+author: "Yuwei Wu"
+date: "2024-01-28"
+output: html_document
+---
+
+#'random_art' Function
+This function generate random art given a random seed. 
